@@ -61,6 +61,9 @@ projects[harmony_core][version] = "1.x-dev"
 projects[harmony_moderation][subdir] = "contrib"
 projects[harmony_moderation][version] = "1.x-dev"
 
+projects[honeypot][subdir] = "contrib"
+projects[honeypot][version] = "1.17"
+
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.5"
 
