@@ -6,6 +6,9 @@ distribution_name = Harmony
 ; System Requirements.
 php_memory_limit = 128M
 
+; Drupal Core.
+dependencies[] = field_ui
+
 ; Harmony dependencies
 dependencies[] = harmony_core
 dependencies[] = harmony_default_permissions
@@ -22,3 +25,11 @@ dependencies[] = admin_views
 dependencies[] = clamav
 dependencies[] = features_override
 dependencies[] = honeypot
+dependencies[] = jquery_colorpicker
+dependencies[] = readmorejs
+dependencies[] = strongarm
+dependencies[] = timeago
+dependencies[] = views_bulk_operations
+
+; Theme?
+dependencies[] = bootstrap
