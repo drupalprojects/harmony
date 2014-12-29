@@ -48,4 +48,7 @@ function harmony_install() {
   // Enable and set the frontend theme.
   db_update('system')->fields(array('status' => 1))->condition('type', 'theme')->condition('name', 'bootstrap')->execute();
   variable_set('theme_default', 'bootstrap');
+
+  // Set the homepage.
+  variable_set('site_frontpage', 'forum');
 }
