@@ -30,6 +30,3 @@ dependencies[] = readmorejs
 dependencies[] = strongarm
 dependencies[] = timeago
 dependencies[] = views_bulk_operations
-
-; Theme?
-dependencies[] = bootstrap

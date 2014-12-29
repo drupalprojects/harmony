@@ -13,6 +13,9 @@ projects[admin_menu][version] = "3.0-rc5"
 projects[admin_views][subdir] = "contrib"
 projects[admin_views][version] = "1.3"
 
+projects[atjs][subdir] = "contrib"
+projects[atjs][version] = "1.x-dev"
+
 projects[better_exposed_filters][subdir] = "contrib"
 projects[better_exposed_filters][version] = "3.0"
 
@@ -67,6 +70,9 @@ projects[honeypot][version] = "1.17"
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.5"
 
+projects[jquery_colorpicker][subdir] = "contrib"
+projects[jquery_colorpicker][version] = "1.1"
+
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.4"
 
@@ -84,6 +90,9 @@ projects[pathauto][version] = "1.2"
 
 projects[placeholder][subdir] = "contrib"
 projects[placeholder][version] = "1.1"
+
+projects[readmorejs][subdir] = "contrib"
+projects[readmorejs][version] = "1.0"
 
 projects[short_scale_formatter][subdir] = "contrib"
 projects[short_scale_formatter][version] = "1.1"
