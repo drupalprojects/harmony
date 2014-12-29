@@ -5,34 +5,6 @@
  */
 
 /**
- * Flat out stolen from commerce_kickstart, thanks for solving this problem!
- * https://www.drupal.org/project/commerce_kickstart
- *
- * Force-set a theme at any point during the execution of the request.
- *
- * Drupal doesn't give us the option to set the theme during the installation
- * process and forces enable the maintenance theme too early in the request
- * for us to modify it in a clean way.
- */
-function _harmony_set_theme($target_theme) {
-  if ($GLOBALS['theme'] != $target_theme) {
-    unset($GLOBALS['theme']);
-
-    drupal_static_reset();
-    $GLOBALS['conf']['maintenance_theme'] = $target_theme;
-    _drupal_maintenance_theme();
-  }
-}
-
-/**
- * Implements hook_install_tasks_alter().
- */
-function harmony_install_tasks_alter(&$tasks, $install_state) {
-  // Set the installation theme.
-  _harmony_set_theme('harmony_install_theme');
-}
-
-/**
  * Implements hook_install().
  *
  * Perform actions to set up the site for Harmony.
