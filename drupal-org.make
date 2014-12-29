@@ -136,6 +136,8 @@ projects[wysiwyg_filter][version] = "1.6-rc2"
 ; Themes
 projects[bootstrap][version] = "3.0"
 
+projects[harmony_install_theme][version] = "1.x-dev"
+
 ; Modules
 
 ; Libraries
