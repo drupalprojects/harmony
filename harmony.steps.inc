@@ -117,7 +117,7 @@ function harmony_install_verify_requirements(&$install_state) {
       drupal_set_title(st('Requirements issues'));
 
       $status_report = st('<p>Below are the requirements for Harmony, any warnings or errors will be highlighted.</p>');
-      $status_report .= st('<p>Once reviewed click the &quot;Continue&quot; button after the table.</p>');
+      $status_report .= st("<p>Once you've reviewed and resolved any issues click the &quot;Continue&quot; button after the table to re-check and progress.</p>");
       $status_report .= theme('status_report', array('requirements' => $requirements));
       $status_report .= st('<a href="!url" class="btn btn-primary">Continue</a>', array('!url' => check_url(drupal_requirements_url($severity))));
       return $status_report;
