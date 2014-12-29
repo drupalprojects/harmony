@@ -9,7 +9,9 @@ php_memory_limit = 128M
 
 ; Drupal Core.
 dependencies[] = block
+dependencies[] = dblog
 dependencies[] = field_ui
+dependencies[] = menu
 
 ; Harmony dependencies
 dependencies[] = harmony_core
