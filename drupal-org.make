@@ -28,6 +28,12 @@ projects[ctools][version] = "1.5"
 projects[clamav][subdir] = "contrib"
 projects[clamav][version] = "1.0-alpha2"
 
+projects[codefilter][subdir] = "contrib"
+projects[codefilter][version] = "1.1"
+
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.5"
+
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.8"
 
