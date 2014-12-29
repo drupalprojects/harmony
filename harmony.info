@@ -2,11 +2,13 @@ name = Harmony
 description = The basis for forums and communities with Drupal!
 core = 7.x
 distribution_name = Harmony
+exclusive = 1
 
 ; System Requirements.
 php_memory_limit = 128M
 
 ; Drupal Core.
+dependencies[] = block
 dependencies[] = field_ui
 
 ; Harmony dependencies
