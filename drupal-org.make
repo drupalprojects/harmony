@@ -130,6 +130,9 @@ projects[token][version] = "1.5"
 projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.2"
 
+projects[user_picture_field][subdir] = "contrib"
+projects[user_picture_field][version] = "1.0-rc1"
+
 projects[viewfield][subdir] = "contrib"
 projects[viewfield][version] = "2.0"
 
