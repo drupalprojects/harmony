@@ -41,5 +41,4 @@ dependencies[] = simple_pass_reset
 dependencies[] = strongarm
 dependencies[] = taxonomy_access_fix
 dependencies[] = timeago
-dependencies[] = user_picture_field
 dependencies[] = views_bulk_operations

@@ -68,7 +68,7 @@ projects[flag][subdir] = "contrib"
 projects[flag][version] = "3.5"
 
 projects[harmony_core][subdir] = "contrib"
-projects[harmony_core][version] = "1.x-dev"
+projects[harmony_core][version] = "1.0-alpha2"
 
 projects[harmony_moderation][subdir] = "contrib"
 projects[harmony_moderation][version] = "1.x-dev"
@@ -129,9 +129,6 @@ projects[token][version] = "1.5"
 
 projects[transliteration][subdir] = "contrib"
 projects[transliteration][version] = "3.2"
-
-projects[user_picture_field][subdir] = "contrib"
-projects[user_picture_field][version] = "1.0-rc1"
 
 projects[viewfield][subdir] = "contrib"
 projects[viewfield][version] = "2.0"
