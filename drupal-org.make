@@ -88,6 +88,9 @@ projects[jquery_colorpicker][version] = "1.1"
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.4"
 
+projects[letter_default_avatar][subdir] = "contrib"
+projects[letter_default_avatar][version] = "1.x-dev"
+
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
 
