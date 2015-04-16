@@ -65,10 +65,10 @@ projects[features_override][subdir] = "contrib"
 projects[features_override][version] = "2.0-rc2"
 
 projects[flag][subdir] = "contrib"
-projects[flag][version] = "3.5"
+projects[flag][version] = "3.6"
 
 projects[harmony_core][subdir] = "contrib"
-projects[harmony_core][version] = "1.0-alpha2"
+projects[harmony_core][version] = "1.0-alpha3"
 
 projects[harmony_moderation][subdir] = "contrib"
 projects[harmony_moderation][version] = "1.x-dev"
