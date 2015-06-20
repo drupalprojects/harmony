@@ -115,6 +115,9 @@ projects[short_scale_formatter][version] = "1.1"
 projects[simple_pass_reset][subdir] = "contrib"
 projects[simple_pass_reset][version] = "1.5"
 
+projects[spambot][subdir] = "contrib"
+projects[spambot][version] = "1.4"
+
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
 

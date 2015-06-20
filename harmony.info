@@ -39,6 +39,7 @@ dependencies[] = letter_default_avatar
 dependencies[] = markdown
 dependencies[] = readmorejs
 dependencies[] = simple_pass_reset
+dependencies[] = spambot
 dependencies[] = strongarm
 dependencies[] = taxonomy_access_fix
 dependencies[] = timeago
