@@ -68,7 +68,7 @@ projects[flag][subdir] = "contrib"
 projects[flag][version] = "3.6"
 
 projects[harmony_core][subdir] = "contrib"
-projects[harmony_core][version] = "1.0-alpha4"
+projects[harmony_core][version] = "1.0-alpha6"
 
 projects[harmony_moderation][subdir] = "contrib"
 projects[harmony_moderation][version] = "1.x-dev"
