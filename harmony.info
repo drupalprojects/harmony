@@ -35,6 +35,7 @@ dependencies[] = features_override
 dependencies[] = honeypot
 dependencies[] = httprl
 dependencies[] = jquery_colorpicker
+dependencies[] = libraries
 dependencies[] = letter_default_avatar
 dependencies[] = markdown
 dependencies[] = readmorejs
