@@ -5,13 +5,13 @@ api = 2
 
 ; Modules
 projects[views_bulk_operations][subdir] = "contrib"
-projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.3"
 
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc5"
 
 projects[admin_views][subdir] = "contrib"
-projects[admin_views][version] = "1.3"
+projects[admin_views][version] = "1.5"
 
 projects[atjs][subdir] = "contrib"
 projects[atjs][version] = "1.x-dev"
@@ -23,7 +23,7 @@ projects[better_formats][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.9"
 
 projects[clamav][subdir] = "contrib"
 projects[clamav][version] = "1.0-alpha2"
@@ -32,7 +32,7 @@ projects[codefilter][subdir] = "contrib"
 projects[codefilter][version] = "1.1"
 
 projects[context][subdir] = "contrib"
-projects[context][version] = "3.5"
+projects[context][version] = "3.6"
 
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.8"
@@ -44,7 +44,7 @@ projects[elements][subdir] = "contrib"
 projects[elements][version] = "1.4"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.5"
+projects[entity][version] = "1.7"
 
 projects[entity_quote][subdir] = "contrib"
 projects[entity_quote][version] = "1.x-dev"
@@ -59,7 +59,7 @@ projects[exif_orientation][subdir] = "contrib"
 projects[exif_orientation][version] = "1.0"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.2"
+projects[features][version] = "2.10"
 
 projects[features_override][subdir] = "contrib"
 projects[features_override][version] = "2.0-rc2"
@@ -80,13 +80,13 @@ projects[httprl][subdir] = "contrib"
 projects[httprl][version] = "1.14"
 
 projects[inline_entity_form][subdir] = "contrib"
-projects[inline_entity_form][version] = "1.5"
+projects[inline_entity_form][version] = "1.8"
 
 projects[jquery_colorpicker][subdir] = "contrib"
 projects[jquery_colorpicker][version] = "1.1"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.4"
+projects[jquery_update][version] = "2.7"
 
 projects[letter_default_avatar][subdir] = "contrib"
 projects[letter_default_avatar][version] = "1.x-dev"
@@ -140,7 +140,7 @@ projects[viewfield][subdir] = "contrib"
 projects[viewfield][version] = "2.0"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.8"
+projects[views][version] = "3.13"
 
 projects[views_flag_refresh][subdir] = "contrib"
 projects[views_flag_refresh][version] = "1.3"
@@ -162,14 +162,14 @@ projects[harmony_install_theme][version] = "1.x-dev"
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 libraries[at.js][download][type] = "get"
-libraries[at.js][download][url] = "https://github.com/ichord/At.js/archive/v0.5.2.tar.gz"
+libraries[at.js][download][url] = "https://github.com/ichord/At.js/archive/v1.5.0.tar.gz"
 libraries[at.js][directory_name] = "at.js"
 libraries[at.js][type] = "library"
 
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 libraries[caret.js][download][type] = "get"
-libraries[caret.js][download][url] = "https://github.com/ichord/Caret.js/archive/v0.2.1.tar.gz"
+libraries[caret.js][download][url] = "https://github.com/ichord/Caret.js/archive/v0.3.1.tar.gz"
 libraries[caret.js][directory_name] = "caret.js"
 libraries[caret.js][type] = "library"
 
